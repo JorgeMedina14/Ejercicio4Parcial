@@ -1,0 +1,15 @@
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\bin\Debug\net6.0\Ejercicio4_Parcial.exe
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\bin\Debug\net6.0\Ejercicio4_Parcial.deps.json
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\bin\Debug\net6.0\Ejercicio4_Parcial.runtimeconfig.json
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\bin\Debug\net6.0\Ejercicio4_Parcial.dll
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\bin\Debug\net6.0\Ejercicio4_Parcial.pdb
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.AssemblyInfoInputs.cache
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.AssemblyInfo.cs
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.dll
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\refint\Ejercicio4_Parcial.dll
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.pdb
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\Ejercicio4_Parcial.genruntimeconfig.cache
+C:\Users\jorge\Escritorio\Ejercicio4_Parcial\Ejercicio4_Parcial\obj\Debug\net6.0\ref\Ejercicio4_Parcial.dll
